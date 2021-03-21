@@ -11,7 +11,7 @@ This tool i.e IpInfoga Uses an json api endpoint which will directly communicate
 Open Terminal and Type
 
 ```
-git clone https://Nadar-Athis/IpInfoga
+git clone https://github.com/Nadar-Athis/IpInfoga
 ```
 
 ```
@@ -20,6 +20,9 @@ cd IpInfoga
 
 ```
 chmod +x *
+```
+```
+ls
 ```
 
 ```
